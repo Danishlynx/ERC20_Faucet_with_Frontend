@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+# ERC20 Token Faucet Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+This project is an **ERC20 token faucet application** that allows users to request a small amount of ERC20 tokens for testing and development purposes. Built on top of Ethereum blockchain technology, this application leverages smart contracts to automate token distribution and ensure a seamless and secure experience for users. Utilizing modern web frameworks alongside blockchain technology, this project aims to provide developers and enthusiasts with an easy-to-use interface to interact with ERC20 tokens.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Token Distribution:** Users can request tokens at the click of a button, receiving a predefined amount for their testing needs.
+- **Rate Limiting:** To prevent abuse, the faucet implements rate limiting, ensuring fair access to all users.
+- **Smart Contract Integration:** At the heart of the application lies a smart contract that handles token distribution, ensuring transactions are secure and transparent.
+- **User-friendly Interface:** Built with React, the application offers a responsive and intuitive interface for users.
+- **Ethereum Wallet Integration:** Supports popular Ethereum wallets for seamless token transactions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-02-02 111354](https://github.com/Danishlynx/ERC20_Faucet_with_Frontend/assets/69537135/21a0f373-5fde-414e-82ef-ed7738ae701a)
+![Screenshot 2024-02-02 111432](https://github.com/Danishlynx/ERC20_Faucet_with_Frontend/assets/69537135/10ab29dc-91ca-4dcf-b7f9-2c06d592dc6a)
+![Screenshot 2024-02-02 111656](https://github.com/Danishlynx/ERC20_Faucet_with_Frontend/assets/69537135/b373283f-6a47-4fe5-83c3-f70b53c3a19a)
